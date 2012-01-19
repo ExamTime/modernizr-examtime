@@ -6,7 +6,7 @@ This gem is an update to https://github.com/russfrisch/modernizr-rails which cau
 How to Use
 ===========
 Add the following to your GemFile: 
-`gem 'modernizr-examtime :git => '`
+`gem 'modernizr-examtime', :git => 'git@github.com:ExamTime/modernizr-examtime.git' '`
 
 Then add the following to your application.js manifest:
 `//= require modernizr`
