@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.version     = Modernizr::Examtime::VERSION
   s.authors     = ["James Burke"]
   s.email       = ["james.burke@examtime.com"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = "http://www.examtime.com/"
+  s.summary     = %q{Rails gem package for Modernizr javascript file.}
+  s.description = %q{Modernizr is a small JavaScript library that detects the availability of native implementations for next-generation web technologies, i.e. features that stem from the HTML5 and CSS3 specifications. This gem is an update to https://github.com/russfrisch/modernizr-rails which caused an error in IE7. }
 
   s.rubyforge_project = "modernizr-examtime"
 
