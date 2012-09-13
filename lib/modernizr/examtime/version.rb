@@ -1,5 +1,5 @@
 module Modernizr
   module Examtime
-    VERSION = "1.0.0"
+    VERSION = "2.6.2"
   end
 end
